@@ -1,0 +1,20 @@
+"""
+# la programation orienté object (P.O.O) avec le langage python 
+==>comment afficher une texte 
+==>comment saisir des information 
+==>variables
+==>les coditons et  boucle 
+==>les fonctions et modulariter 
+==>getion des errreurs 
+
+==> CLASSSE          : c'est une plan  de conception, genre(ex: humain )
+==> object           : instance de la classe (ex: Sadibou )
+
+==> attributs        : c'est une variable de la classe (ex : nom , ages , sexe, taille etc ....)
+==> propriete        :c'est une magnére de manipuler les attributs (ex : lecture seul , accces nom autoriser en dehors de la classe ,etc.. )
+==> metode           : c'est une fonction d'une classe (ex : manger , boire , dormir , parler , marcher ,mourir ,etc ...)
+
+==> metode de classe : c'est une conction d'une classe (explication à venir )
+==> metode statique  :c'est une fonction de la classe , mais independent de la classe 
+==> heritage         : c'est une classe fille que herite d'une classe mere (fille c'est une sorte de mere )
+                     : classe chat herite de la classe animal (chat c'est une sorte animal)

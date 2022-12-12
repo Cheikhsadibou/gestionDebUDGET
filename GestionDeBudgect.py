@@ -40,7 +40,7 @@ try:
   while( option !=0):
     #create the fonction menu
 
-    print("\nBienvenue dans le Menu des suivis de Gestion de budget n")
+    print("\nBienvenue dans le Menu des suivis de Gestion de budget de :\t\t \n\tSOKHNA LAYE DIAGNE\n")
     print(" 1. Ajouter des dépenses ")
     print(" 2. Enregistrer un nouveau Revenu ")
     print(" 3. Afficher les rapports des Depenses")

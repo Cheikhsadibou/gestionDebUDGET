@@ -1,0 +1,8 @@
+chien 
+chat
+Elephant
+tigre 
+ork 
+poisson 
+cheval
+lievre
